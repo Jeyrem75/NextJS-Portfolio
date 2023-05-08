@@ -22,7 +22,7 @@ const Contact = () => {
     };
 
     return (
-        <div id="contact" className="dark:bg-gray-900 w-full lg:h-screen">
+        <div id="contact" className="dark:bg-gray-900 w-full lg:h-full">
             <div className="max-w-[1240px] m-auto px-2 py-8 w-full">
                 <p className="text-xl tracking-widest uppercase text-[#5651e5]">
                     Contact
